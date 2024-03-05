@@ -1,5 +1,13 @@
 # Orderly SDK Workshop
 
+-----
+
+**DEPRECATED**
+
+Use [examples repository](https://github.com/OrderlyNetwork/examples) instead.
+
+-----
+
 This project demonstrates usage of the [Orderly hooks SDK](https://www.npmjs.com/package/@orderly.network/hooks).
 The project has been scaffolded via Vitejs and the `react-ts` template.
 
